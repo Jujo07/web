@@ -24,11 +24,11 @@
 24. Vamos al navegador y comprovamos que todo fuenciona entrando en https://localhost
 25. Si hemos seguido los pasos y lo hemos hecho bien
 26. Si hemos modificado la información del manual, la información que tendremos que poner es:
- Usuario:usuario
- Contraseña: password
- Base de datos: bbdd
- Dominio: localhost
-27. Si hemos seguido todo ya lo tendriamos todo hecho
+27. Usuario:usuario
+28. Contraseña: password
+29. Base de datos: bbdd
+30. Dominio: localhost
+31. Si hemos seguido todo ya lo tendriamos todo hecho
 
 
 
